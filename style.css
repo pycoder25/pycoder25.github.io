@@ -1,12 +1,14 @@
 body {
     background-color: skyblue;
-    text-align: center;
+
 }
 
 h1 {
     color: green;
+    text-align: center;
 }
 
 h2 {
     color: black;
+    text-align: center;
 }
