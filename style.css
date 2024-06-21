@@ -5,11 +5,14 @@ body {
 
 h1 {
     color: green;
-    text-align: center;
+
 }
 
 h2 {
     color: black;
-    text-align: center;
-    
+
+}
+
+.container {
+    display: flex;
 }
