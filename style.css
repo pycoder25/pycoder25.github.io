@@ -56,5 +56,6 @@ body {
 
   #certifications {
     display: flex;
-    
+    flex-wrap: wrap;
+
   }
